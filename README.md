@@ -13,7 +13,11 @@
 ---
 
 ## mission 수행 결과
->- GenAI 기초 1: LLM 기반 업무 자동화 => integration.md
+> - GenAI 기초 1: LLM 기반 업무 자동화
+  -- 모델별 프롬프트 입력 결과 및 모델 평가 결과: integration.md
+  -- 회의록 원문: meeting-0702.md
+  -- 미션 1 목표 및 내용: mission1.md
+  -- 재사용 가능한 입력 프롬프트: prompt.md
 
 ## 📚 제가 참여하는 과정은?
 
