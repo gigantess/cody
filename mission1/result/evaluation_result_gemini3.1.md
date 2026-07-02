@@ -1,4 +1,4 @@
-# evaluation(396,500)
+# evaluation result(396,500)
 ## user:
 3개의 모델에게 meeting-0702.md파일을 기반으로, 같은 질문을 주고 결과를 출력했을 때, claude_fable5.md, gemini3_flash.md, gpt-5.5.md와 같이 출력되었어. evaluation_criteria.md에 명시된 평가 기준에 따라 gemini3_flash와 claude_fable5, gpt-5.5를 평가해줘.
 
